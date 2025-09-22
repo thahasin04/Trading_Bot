@@ -24,6 +24,17 @@ The bot includes **secure authentication**, **refresh token handling**, and **li
 - **JavaScript (Vanilla + Bootstrap)** for frontend
 - **HTML/CSS** for dashboard design
 
+## 📸 Screenshots
+
+### 🔑 Login Page
+![Login Page](./screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 📦 Holdings & Positions
+![Holdings](./screenshots/holdings.png)
+
 ---
 
 ## ⚙️ Setup Instructions
