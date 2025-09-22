@@ -27,7 +27,7 @@ The bot includes **secure authentication**, **refresh token handling**, and **li
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page]()
+![Login Page](Login.png)
 
 ### 📊 Dashboard
 ![Dashboard](dashboard.png)
