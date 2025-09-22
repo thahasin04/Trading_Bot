@@ -27,10 +27,10 @@ The bot includes **secure authentication**, **refresh token handling**, and **li
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page](C:\Users\thahasin gandluri\Pictures\Screenshots\Screenshot (1172).png)
+![Login Page]()
 
 ### 📊 Dashboard
-![Dashboard](C:\Users\thahasin gandluri\Pictures\Screenshots\Screenshot (1169).png)
+![Dashboard](dashboard.png)
 
 ### 📦 Holdings & Positions
 ![Holdings](C:\Users\thahasin gandluri\Pictures\Screenshots\Screenshot (1170).png)
