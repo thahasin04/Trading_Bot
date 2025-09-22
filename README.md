@@ -33,7 +33,7 @@ The bot includes **secure authentication**, **refresh token handling**, and **li
 ![Dashboard](dashboard.png)
 
 ### 📦 Holdings & Positions
-![Holdings](C:\Users\thahasin gandluri\Pictures\Screenshots\Screenshot (1170).png)
+![Holdings](HOP.png)
 
 ---
 
